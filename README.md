@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luv</h1>
-<h3 align="center">Yes, just another playing around and buiding stuff</h3>
+<h3 align="center">Yes, just another guy playing around and buiding stuff</h3>
 
 - 🔭 I’m currently working on **Franzy(a music Collabration paltform)**
 
